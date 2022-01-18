@@ -11,5 +11,6 @@ public class Maison extends Logement {
     public void description() {
         System.out.println("Je suis une maison avec " + m_nbreEtages + " étages.");
         System.out.println("Je suis une grande maison avec " + m_nbreEtages + " étages.");
+        //damn
     }
 }
